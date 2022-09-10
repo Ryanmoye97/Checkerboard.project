@@ -1,0 +1,24 @@
+.chessboard {
+display: flex;
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+}
+
+.black {
+display: flex;
+width: 100px;
+height: 100px;
+margin: 100px;
+background-color: black;
+vertical-align: middle;
+}
+
+.white {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+    background-color: white;
+    vertical-align: middle;
+}
